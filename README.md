@@ -2,29 +2,42 @@
 
 ## Мониторинг
 [Jenkins Metrics] - Jenkins metric Plugin
+
 [Zabbix Integration] - Интеграция с zabbix
+
 [Monitoring Plugin] - Jenkins native monitoring plugin
+
 [Jenkins Prometheus] - Jenkins prometheus integration
+
 [Grafana Dashboard] - Jenkins grafana dashboard
 
 ## JVM 
 [Prepare Jenkins] - подготовка Jenkins
+
 [JVM Troubleshooting] - поиск проблем с JVM
+
 [GC Running] - кейс с тюнингом GC
 
 ## Контроль изменений
-[Audit Trail] - лог событий изменения конфигураци
+[Audit Trail] - лог событий изменения конфигурации
+
 [Job Configuration History] - лог изменения pipeline
 
 ## Резервное копирование
 [Backup Up] - backup best practice
+
 [Thin Backup] - plugin
+
 [Backup Plugin] - plugin
+
 
 ## Pipeline 
 [Pipeline Code] - best practices от jenkins
+
 [Top 10] - Top 10 Best Practice
+
 [Best Practice Overview] - Best Practice Overview 
+
 
 
 
